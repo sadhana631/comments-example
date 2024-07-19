@@ -119,7 +119,7 @@ class Components extends Component {
       </p>
        <ul className="comments-list">{this.renderCommentsList ()}</ul>
       </div>
-     </div>
+     <div>
     )
   }
 }    
